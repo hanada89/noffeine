@@ -133,7 +133,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-
+'''
 ## swagger
 SWAGGER_SETTINGS = {            
     'JSON_EDITOR': True,       
@@ -146,4 +146,4 @@ REST_FRAMEWORK = {
         'rest_framework.parsers.JSONParser',
     ]
 }
-
+'''
